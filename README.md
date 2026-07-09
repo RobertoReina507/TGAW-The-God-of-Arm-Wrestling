@@ -44,3 +44,17 @@ El juego presenta un duelo de pulseadas en el que el jugador debe presionar en e
 ## Estado actual
 
 Versión final jugable v9.3.
+
+## Descarga de la build final
+
+La versión ejecutable final se encuentra disponible en la sección de Releases del repositorio.
+
+- Release final: TGAW Final Build v9.3
+- Archivo: TGAW_Build_Final.zip
+
+## Instalación rápida
+
+1. Descargar `TGAW_Build_Final.zip`.
+2. Extraer la carpeta completa.
+3. Ejecutar `TGAW_Final_v9.exe`.
+4. Mantener la carpeta `assets` junto al ejecutable para conservar fondos y audio.
